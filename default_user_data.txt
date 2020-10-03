@@ -1,0 +1,6 @@
+{
+   "name":"SHIKTO",
+   "pic":"https://www.google.com/favicon.ico",
+   "group":{
+   }
+}
